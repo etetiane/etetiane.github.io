@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etetiane.github.io/sitemap.html.gz
+Sitemap: https://etetiane.github.io/app/sitemap.html.gz
+Sitemap: https://etetiane.github.io/assets/sitemap.html.gz
+Sitemap: https://etetiane.github.io/css/sitemap.html.gz
+Sitemap: https://etetiane.github.io/includes/sitemap.html.gz
+Sitemap: https://etetiane.github.io/item/sitemap.html.gz
+Sitemap: https://etetiane.github.io/src/sitemap.html.gz
